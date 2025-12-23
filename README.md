@@ -82,7 +82,7 @@ This GitHub will focus on **patterns, utilities, and best practices**, such as:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitkrishanu&show_icons=true)
 
 ---
 
